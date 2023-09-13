@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obesitas Informatie</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Obesitas Informatie</h1>
+    <nav>
+      <ul>
+        <li><a href="#intro">Introductie</a></li>
+        <li><a href="#causes">Oorzaken</a></li>
+        <li><a href="#effects">Effecten</a></li>
+        <li><a href="#prevention">Preventie</a></li>
+        <li><a href="#resources">Bronnen</a></li>
+        <li><a href="#stories">Verhalen</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="content">
+    <section id="intro" class="section">
+      <h2>Introductie</h2>
+      <p>Obesitas is een ernstige medische aandoening waarbij het lichaam een overmatige hoeveelheid vet opslaat. Deze website biedt uitgebreide informatie over obesitas, de oorzaken, effecten, preventie, persoonlijke verhalen en bronnen.</p>
+    </section>
+
+    <section id="causes" class="section">
+      <h2>Oorzaken van Obesitas</h2>
+      <p>Obesitas kan worden veroorzaakt door verschillende factoren, waaronder slechte eetgewoonten, gebrek aan lichaamsbeweging, genetica en meer.</p>
+      <!-- Voeg hier meer informatie over oorzaken toe -->
+    </section>
+
+    <section id="effects" class="section">
+      <h2>Effecten van Obesitas</h2>
+      <p>Obesitas kan leiden tot ernstige gezondheidsproblemen, zoals diabetes, hartaandoeningen, en gewrichtsproblemen.</p>
+      <!-- Voeg hier meer informatie over de effecten toe -->
+    </section>
+
+    <section id="prevention" class="section">
+      <h2>Preventie en Behandeling</h2>
+      <p>Het voorkomen en behandelen van obesitas omvat gezonde eetgewoonten, regelmatige lichaamsbeweging, en medische interventie.</p>
+      <!-- Voeg hier meer informatie over preventie toe -->
+    </section>
+
+    <section id="stories" class="section">
+      <h2>Persoonlijke Verhalen</h2>
+      <p>Lees inspirerende verhalen van mensen die obesitas hebben overwonnen en hun leven hebben veranderd.</p>
+      <!-- Voeg hier persoonlijke verhalen toe -->
+    </section>
+
+    <section id="resources" class="section">
+      <h2>Bronnen</h2>
+      <p>Hier zijn enkele bronnen voor meer informatie over obesitas:</p>
+      <ul>
+        <li><a href="https://www.obesity.org/">Obesity.org</a></li>
+        <li><a href="https://www.cdc.gov/obesity/index.html">CDC Obesity</a></li>
+        <li><a href="https://www.who.int/health-topics/obesity#tab=tab_1">WHO Obesity</a></li>
+      </ul>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contact</h2>
+      <p>Heb je vragen of wil je meer informatie? Neem gerust contact met ons op.</p>
+      <!-- Voeg hier een contactformulier of contactinformatie toe -->
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2023 Obesitas Informatie</p>
+  </footer>
+</body>
+</html>
